@@ -13,7 +13,7 @@ const Hero = () => {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
               Boost your business with authentic Google Maps and App Store reviews. 
-              Trusted by 500+ businesses across India.
+              Trusted by 200+ businesses across India.
             </p>
           </div>
 
@@ -38,7 +38,7 @@ const Hero = () => {
               <div className="flex items-center justify-center mb-4">
                 <Users className="text-blue-500" size={32} />
               </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-2">500+</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">200+</h3>
               <p className="text-gray-600">Happy Clients</p>
             </div>
             <div className="bg-white/60 backdrop-blur-sm rounded-lg p-6 shadow-lg">

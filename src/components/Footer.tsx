@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-6">Satyjeet Kumar</h3>
+            <h3 className="text-2xl font-bold mb-6">Satyajeet Singh</h3>
             <p className="text-gray-300 mb-6">
               Your trusted partner for authentic Google Maps and App Store reviews. 
               Helping businesses grow with genuine customer feedback.
@@ -47,7 +47,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="text-green-400" size={20} />
                 <div>
-                  <p className="font-medium">satyjeet@email.com</p>
+                  <p className="font-medium">satyajeetk7778@gmail.com</p>
                   <p className="text-sm text-gray-400">Business Email</p>
                 </div>
               </div>

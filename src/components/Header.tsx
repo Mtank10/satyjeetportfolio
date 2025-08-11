@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold text-gray-900">
-            Satyjeet Kumar
+            Satyajeet Singh
           </div>
           
           {/* Desktop Navigation */}
@@ -28,7 +28,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-2 text-sm text-gray-600">
               <Mail size={16} />
-              <span>demo@email.com</span>
+              <span>satyajeetk7778@gmail.com</span>
             </div>
           </div>
 
@@ -56,7 +56,7 @@ const Header = () => {
                 </div>
                 <div className="flex items-center space-x-2 text-sm text-gray-600">
                   <Mail size={16} />
-                  <span>demo@email.com</span>
+                  <span>satyajeetk7778@gmail.com</span>
                 </div>
               </div>
             </nav>
